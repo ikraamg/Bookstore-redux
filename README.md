@@ -15,13 +15,14 @@
   <p align="center">
     <a href="https://github.com/Phylis05/Bookstore-redux/issues">Report a Bug or Request a Feature</a>
     ·
-    <a href="https://bookstore-ip.herokuapp.com/">Live Demo</a>
+    <a href="https://vast-headland-02261.herokuapp.com/">Live Demo</a>
   </p>
 </p>
 
 <!-- Live Link  -->
 
-## [Live Demo](https://bookstore-ip.herokuapp.com/)
+### [Live demo with a Ruby on Rails backend via an API](https://vast-headland-02261.herokuapp.com/) - (please wait 15 seconds for heroku to start up)
+### [Live demo with only react-redux](https://bookstore-ip.herokuapp.com/)
 
 <br>
 <!-- ABOUT THE PROJECT -->
